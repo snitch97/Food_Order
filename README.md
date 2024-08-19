@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Food Ordering Project
 
-<!-- ![image](https://github.com/snitch97) -->
+![image](https://github.com/snitch97/Food_Order/blob/main/public/images/food.png)
 
 
 Hello,
