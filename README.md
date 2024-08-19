@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Food Ordering Project
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/272ac072-0702-4c83-9a79-a09a2eb43b4c)
+<!-- ![image](https://github.com/snitch97) -->
 
 
 Hello,
